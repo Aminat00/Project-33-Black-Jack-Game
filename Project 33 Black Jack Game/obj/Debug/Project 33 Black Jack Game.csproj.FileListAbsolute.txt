@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\bin\Debug\Project 33 Black Jack Game.exe.config
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\bin\Debug\Project 33 Black Jack Game.exe
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\bin\Debug\Project 33 Black Jack Game.pdb
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\obj\Debug\Project 33 Black Jack Game.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\obj\Debug\Project_33_Black_Jack_Game.Form1.resources
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\obj\Debug\Project_33_Black_Jack_Game.Properties.Resources.resources
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\obj\Debug\Project 33 Black Jack Game.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\obj\Debug\Project 33 Black Jack Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\obj\Debug\Project 33 Black Jack Game.exe
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\obj\Debug\Project 33 Black Jack Game.pdb
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\obj\Debug\Project_33_Black_Jack_Game.Form2.resources
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\obj\Debug\Project_33_Black_Jack_Game.Form3.resources
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\obj\Debug\Project_33_Black_Jack_Game.Form4.resources
+C:\Users\HP\source\repos\Project 33 Black Jack Game\Project 33 Black Jack Game\obj\Debug\Project_33_Black_Jack_Game.images.resources
